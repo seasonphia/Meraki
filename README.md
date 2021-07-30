@@ -32,7 +32,7 @@
 
 <h2>Pink Carnation</h2>
 <em><p>“I’ll never forget you.”</p></em>
-<img src='' alt='Carnations')>
+<img src='https://raw.githubusercontent.com/seasonphia/Meraki/main/Images/Carnations.jpg' alt='Carnations')>
 <br>
 
 <h2>Yarrow</h2>
