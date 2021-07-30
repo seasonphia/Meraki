@@ -1,4 +1,4 @@
-# Meraki
+# Flowers of Meraki
 
 <h2>Angelica</h2>
 <em><p>inspiration, “You inspire me.”</p></em>
