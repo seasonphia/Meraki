@@ -17,17 +17,17 @@
 
 <h2>Goldenrod (aka Solidago)</h2>
 <em><p>encouragement, strength, good fortune</p></em>
-<img src='' alt='Goldenrod/Solidago Flowers')>
+<img src='https://raw.githubusercontent.com/seasonphia/Meraki/main/Images/Goldenrod.jpg' alt='Goldenrod/Solidago Flowers')>
 <br>
 
 <h2>Hedera Helix (aka Ivy)</h2>
 <em><p>affection, friendship, fidelity</p></em>
-<img src='' alt='Climbing Ivy')>
+<img src='https://raw.githubusercontent.com/seasonphia/Meraki/main/Images/Ivy.jpg' alt='Climbing Ivy')>
 <br>
 
 <h2>Heliotropium (aka Cherry Pie)</h2>
 <em><p>adoration, devotion, eternal love</p></em>
-<img src='' alt='Heliotropium Flowers')>
+<img src='https://raw.githubusercontent.com/seasonphia/Meraki/main/Images/Heliotropium.jpg' alt='Heliotropium Flowers')>
 <br>
 
 <h2>Pink Carnation</h2>
@@ -37,5 +37,5 @@
 
 <h2>Yarrow</h2>
 <em><p>healing, courage, love</p></em>
-<img src='' alt='Yarrow Flowers')>
+<img src='https://raw.githubusercontent.com/seasonphia/Meraki/main/Images/Yarrow.jpg' alt='Yarrow Flowers')>
 <br>
