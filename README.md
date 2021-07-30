@@ -14,3 +14,28 @@
 <em><p>faith and wisdom and valor</p></em>
 <img src='https://raw.githubusercontent.com/seasonphia/Meraki/main/Images/Blue%20Iris.jpg' alt='Blue Iris Versicolor')>
 <br>
+
+<h2>Goldenrod (aka Solidago)</h2>
+<em><p>encouragement, strength, good fortune</p></em>
+<img src='' alt='Goldenrod/Solidago Flowers')>
+<br>
+
+<h2>Hedera Helix (aka Ivy)</h2>
+<em><p>affection, friendship, fidelity</p></em>
+<img src='' alt='Climbing Ivy')>
+<br>
+
+<h2>Heliotropium (aka Cherry Pie)</h2>
+<em><p>adoration, devotion, eternal love</p></em>
+<img src='' alt='Heliotropium Flowers')>
+<br>
+
+<h2>Pink Carnation</h2>
+<em><p>“I’ll never forget you.”</p></em>
+<img src='' alt='Carnations')>
+<br>
+
+<h2>Yarrow</h2>
+<em><p>healing, courage, love</p></em>
+<img src='' alt='Yarrow Flowers')>
+<br>
